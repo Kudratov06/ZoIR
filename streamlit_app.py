@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import sklearn.ensable import RandomForestClassifier
+from sklearn.ensable import RandomForestClassifier
 
 st.title('💩ZoIR first app')
 
