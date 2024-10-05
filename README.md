@@ -1,4 +1,4 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Streamlit ZoIR |/\| by Ibodullo
 ```
 ⬆️ (Replace above with your app's name)
 ```
